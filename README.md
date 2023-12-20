@@ -1,1 +1,1 @@
-https://ks2197.github.io/Homepage/
+https://ks2197.github.io/
