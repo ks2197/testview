@@ -1,5 +1,5 @@
 {
-  "root_directory": null,
+  "root_directory": /usr/local/lib/python3.10/dist-packages/citylearn/data/citylearn_2022_phase_all_plus_evs,
   "central_agent": false,
   "simulation_start_time_step": 0,
   "simulation_end_time_step": 8759,
